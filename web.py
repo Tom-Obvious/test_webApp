@@ -18,9 +18,9 @@ def clear_list():
 st.title('My Todo-App')
 st.write('\n')
 st.write('''
-This App only exists to increase my productivity o_O \n
-What a poor and sad existence this must be!
-''')
+<p>This App only exists to increase my productivity o_O \n
+What a poor and sad existence this must be!</p>
+''', unsafe_allow_html=True)
 st.write('\n')
 
 st.text_input(label="Enter a todo:",
