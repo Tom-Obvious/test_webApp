@@ -1,0 +1,7 @@
+consume
+obey
+buy
+sleep 8 hours
+watch tv
+submit
+stay asleep
